@@ -1,2 +1,1 @@
-"# LogoDetection" 
-"# LogoDetection" 
+# LogoDetection
